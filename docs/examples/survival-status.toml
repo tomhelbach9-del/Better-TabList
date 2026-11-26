@@ -1,6 +1,6 @@
 # Survival status: every name shows dimension, health, ping and game mode at a glance.
 [appearance]
-server_name = "Aurora SMP"
+server_name = "-Survival-ETL-"
 header = [
     "#N&a&l#SERVERNAME &r&7— Survival#N"
 ]
